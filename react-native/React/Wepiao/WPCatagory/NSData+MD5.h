@@ -1,0 +1,13 @@
+//
+//  NSData+MD5.h
+//  Pods
+//
+//  Created by 窦静轩 on 2017/1/9.
+//
+//
+
+#import <Foundation/Foundation.h>
+
+@interface NSData (md5)
+-(NSString*)md5;
+@end
